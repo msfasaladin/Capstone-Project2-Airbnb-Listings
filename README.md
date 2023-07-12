@@ -1,5 +1,5 @@
 # Capstone-Project2-Airbnb-Listings
-Capstone Project 2 dari JCDS Purwadhika menekankan pada penerapan tools-tools Data Analysis python untuk mendapatkan insight tertentu, dimana output dari project ini adalah berhasil menghasilkan rekomendasi terhadap stakeholder yang dituju, pada project ini saya menganalisis data listing tempat sewa pada platform Airbnb. Pada analisis ini terbagi menjadi beberapa step-step penting :
+Capstone Project 2 dari JCDS Purwadhika menekankan pada penerapan tools-tools Data Analysis Python untuk mendapatkan insight tertentu, dimana output dari project ini adalah berhasil menghasilkan rekomendasi terhadap stakeholder yang dituju, pada project ini saya menganalisis data listing tempat sewa pada platform Airbnb. Pada analisis ini terbagi menjadi beberapa step-step penting :
 
 - Latar Belakang : Pada bagian latar belakang, menjelaskan terkait tujuan dilakukannya Analisis Data.
 - Data Understanding and Cleaning : Pada bagian ini, fokus dalam membersihkan dan memahami data yang akan di analisis seperti menghapus kolom, mengganti tipe data kolom, menambahkan kolom, handle missing values, handle duplikat, dan mendefinisikan penjelasan dari masing-masing kolom pada data yang akan di analisis.
